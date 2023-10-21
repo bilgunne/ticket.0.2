@@ -42,3 +42,22 @@
     margin-top: 4%;
     margin-bottom: 3%;
 }
+
+.item-4{
+    grid-area: contact;
+    background-color: white;
+    padding-right: 2%;
+    padding-top: 6.7%;
+}
+
+.item-5{
+    grid-area: footer;
+    background-color: #13124F;
+    padding-left: 2%;
+    padding-top: 1%;
+}
+
+.item-5 p{
+    color: white;
+    text-align: left;
+}
