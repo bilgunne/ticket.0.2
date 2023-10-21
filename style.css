@@ -79,3 +79,21 @@
 .text{
     color: #13124f;
 }
+
+#icon {
+    text-align: center;
+    text-justify: center;
+    color: #9090a5;
+    float: left;
+    height: 18px;
+    width: 18px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.side-bar-container{
+    margin: 0;
+    display: grid;
+    width: 100%;
+}
