@@ -61,3 +61,21 @@
     color: white;
     text-align: left;
 }
+
+.main-grid-container{
+    width: 100%;
+    margin: 0;
+    display: grid;
+    text-align: left;
+}
+
+.header2{
+    color: #13124f;
+    border-bottom: 0.5px solid #9090a5;
+    padding-bottom: 1%;
+    margin-bottom: 2.5%;
+}
+
+.text{
+    color: #13124f;
+}
