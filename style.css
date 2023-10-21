@@ -97,3 +97,43 @@
     display: grid;
     width: 100%;
 }
+
+#number{
+    background-color:#352ba5 ;
+    border-radius: 50%;
+    width: 20px;
+}
+
+.welcome{
+    background-color: #13124f;
+    color: white;
+    text-align: left;
+    margin-bottom: 5%;
+}
+
+.welcome h3{
+    margin-top: 0%;
+    background-color: #9090a5;
+    font-size: 18px;
+    padding-left: 4%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.welcome p{
+    font-size: 13px;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.welcome input{
+    width: 92%;
+    background-color: #1b1b6c;
+    border-bottom: 3px solid #9090a5;
+    border-top: 2px solid #9090a5;
+    border-right: 0;
+    border-left: 0;
+    margin-left: 4%;
+    padding: 2%;
+    margin-bottom: 4%;
+}
