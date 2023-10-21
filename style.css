@@ -1,0 +1,27 @@
+@media only screen and (min-width: 769px) and (max-width:959px) {
+    .grid-container{
+       width: 100%;
+    }
+}
+.item-1{
+    grid-area: header;
+    background-color: #1b1b6c;
+    text-align: left;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.item-1 img{
+    width: 10%;
+}
+
+.item-2{
+    grid-area: hello;
+    background-color: #13124F;
+    color: white;
+    text-align: left;
+    padding-left: 3%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
