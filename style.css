@@ -160,3 +160,14 @@
 .vote p{
     margin-bottom: 0;
 }
+
+#green-line{
+    border: 4px solid #2ad392;
+    width: 29%;
+    float: left;
+}
+
+img{
+    width: 250px;
+    height: 400px;
+}
